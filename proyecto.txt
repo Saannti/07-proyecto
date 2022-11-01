@@ -1,9 +1,18 @@
-                                                                         Atletismo en Cipolletti
--El proyecto de "Atletisismo Cipolletti-site" se focalizara en las novedades sobre el rubro de dicho deporte en la localidad de cipolletti, se veran los campeones nacionales, nuvos torneos, futuras competiciones y nuevas marcas record de cada competidor, tambien hablara de como se desarrolla este deporte, en que consiste y como se extinde en sus diferentes ramas.
+                                                                 zapatillas deportivas-site
+                                                                 
+                                                                 
+- Este proyecto estara destinado a la comunidad deportiva o incluso personas que busquen zapatillas deportivas, hablara de calzados para correr, y sus diferentes aspectos, teniendo en cuenta las siguintes caracteristicas:
 
--Este sitio web sera destinado a quines les interese saber sobre el deporte de este estilo en cipolletti, por ejemplo:
-*Deportistas
-*Corredores 
-*Entrenadores 
-* 
--su objetivo es poder proveer informacion respecto a las novedades de este edeporte en cipolletti y como se estan desarrollando los competidores de dicha localidad
+* Precios
+* Calidad
+* Confort
+* Terreno al cual seran expuestas las zapatillas 
+* Duravilidad 
+* Funcionalidad
+
+-Su objetivo es que puedas elegir las zapatillas indicadas para correr de forma segura y confortable e incluso con variedades economicas, recomendando asi un calzado adecuado dependiendo tus preferncias
+
+-las diferntes secciones del sitio web seran:
+* INICIO DE LA PAGINA 
+* UNA PESTAÑA CON DIFERENTES MARCAS DE ZPATILLAS 
+* UNA PESTAÑA CON LAS CUALIDADES DE DIFERENTES ZAPATILLAS DE LA MARCA SELCCIONADA 
