@@ -1,0 +1,14 @@
+h2{
+    text-align: center;
+}
+body{
+    background-color: aquamarine;
+}
+.colorfondo1{
+    background-color: rgb(53, 53, 53);
+}
+.barra
+{
+    background-image: url("/assest/barra4.jpg");
+    background-size: cover;
+}
