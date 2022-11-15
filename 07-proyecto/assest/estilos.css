@@ -1,14 +1,42 @@
 h2{
+  
     text-align: center;
 }
 body{
-    background-color: aquamarine;
+    background-image: url("/assest/FONDO5.jpg");
 }
 .colorfondo1{
     background-color: rgb(53, 53, 53);
 }
 .barra
 {
-    background-image: url("/assest/barra4.jpg");
+    background-image: url("/assest/nabvar5jpg");
     background-size: cover;
 }
+header{
+    background-color: rgba(0, 0, 0, 0.665);
+}
+
+.letra{
+    color: white;
+}
+
+#carouselExampleInterval{
+
+    margin-top: 33px;
+}
+
+footer p {
+    color: #fff;
+}
+
+h6{
+    color: #fff;
+}
+
+h1{
+  
+    color: #fff;
+    text-align: center;
+}
+
