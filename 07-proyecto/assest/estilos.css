@@ -40,3 +40,14 @@ h1{
     text-align: center;
 }
 
+.col-4{
+    margin-top: 33px;
+}
+#economicos{
+    margin-top: 5%;
+    background-color: rgba(68, 0, 255, 0.178);
+    color: rgb(255, 255, 255);
+}
+#card1{
+    margin-bottom: 5%;
+}
